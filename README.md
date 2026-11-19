@@ -7,7 +7,7 @@ Desenvolver soluções tecnológicas simples, acessíveis e úteis que ajudem as
 
 ## Localização
 - **Endereço:** Rua das Inovações, nº 250, Centro,Piripiri – PI,64260-000
-- **Local:** Centro, Piripiri, PI - CEP 64260-000
+- **Local:** Bairro Centro, próximo à Praça da Tecnologia.
 
 ## Equipe
 - **Kayllanne Eduarda** — Desenvolvedora de Software 
